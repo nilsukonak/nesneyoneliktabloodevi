@@ -1,0 +1,6 @@
+@startuml odev
+title odev
+
+class main{
+    + Main():
+}
